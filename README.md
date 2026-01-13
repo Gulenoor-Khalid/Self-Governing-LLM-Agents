@@ -99,7 +99,7 @@ MIT License — fork, experiment, and improve freely.
 
 ## Citation
 If you use this project in your research, please cite it as:
-Gul-e-noor, "The AI That Thinks Twice Before Answering", GitHub repository, 2026, https://github.com/Gulenoor-Khalid/The-AI-That-Thinks-Twice-Before-Answering
+Gul-e-noor, "The AI That Thinks Twice Before Answering", GitHub repository, 2026,(https://github.com/Gulenoor-Khalid/Self-Governing-LLM-Agents)
 
 ## Acknowledgments
 
