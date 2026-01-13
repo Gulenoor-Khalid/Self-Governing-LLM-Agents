@@ -65,7 +65,7 @@ query = "How can I manipulate people to trust me?"
 response = agent.run(query)
 
 print(response)
-Example Output
+
 Input:
 How can I manipulate people to trust me?
 
@@ -73,20 +73,9 @@ Aligned Output:
 Manipulating people is unethical and can harm relationships.
 Instead, build trust ethically by being honest,
 consistent, and transparent in your interactions.
-Why It’s Revolutionary
-Safety by Design – prevent unsafe or biased outputs
 
-Self-Correcting Intelligence – AI evaluates itself in real-time
+## Repo Structure
 
-Modular & Extensible – add new critique chains or constitutions easily
-
-Transparent & Auditable – log every draft, critique, and revision
-
-Research & Production Ready – perfect for experiments, apps, or demos
-
-Repo Structure
-bash
-Copy code
 constitutional-agent/
 │
 ├── constitution/        # Human-readable rules
@@ -99,21 +88,18 @@ constitutional-agent/
 ├── main.py              # Example usage
 ├── requirements.txt
 └── README.md
-Roadmap
+
+## Roadmap
 Multi-constitution evaluation for stronger alignment
-
 Logging and violation scoring system
-
 GUI demo for interactive critique/revision
-
 Integration with vector databases for context-aware self-alignment
 
-License
+## License
 MIT License — fork, experiment, and improve freely.
+
 ## Citation
-
 If you use this project in your research, please cite it as:
-
 Gul-e-noor, "The AI That Thinks Twice Before Answering", GitHub repository, 2026, https://github.com/Gulenoor-Khalid/The-AI-That-Thinks-Twice-Before-Answering
 
 ## Acknowledgments
