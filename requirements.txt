@@ -1,0 +1,11 @@
+# Core LangChain framework
+langchain>=0.1.0
+
+# OpenAI / Chat model interfaces
+openai>=0.27.0
+
+# For Python dotenv config (optional but recommended)
+python-dotenv>=1.0.0
+
+# Optional: rich printing / logging in console
+rich>=13.0.0
