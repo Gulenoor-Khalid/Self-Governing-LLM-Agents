@@ -44,15 +44,14 @@ Three independent layers ensure nothing leaves the pipeline without self-checks.
 
 ## Quickstart
 
-```bash
-# Clone repo
+### Clone repo
 git clone https://github.com/yourusername/The-AI-That-Thinks-Twice-Before-Answering.git
 cd The-AI-That-Thinks-Twice-Before-Answering
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Set your OpenAI API key
+### Set your OpenAI API key
 export OPENAI_API_KEY="sk-xxxxxx"
 
 from langchain.chat_models import ChatOpenAI
